@@ -79,7 +79,7 @@ $ curl -XPOST -s http://localhost:1317/nameservice/names --data-binary '{"base_r
     "sequence": "number",
     "account_number": "number",
     "gas": "string,not_req",
-    "gas_adjustment": "strin,not_reqg"
+    "gas_adjustment": "string,not_req"
   },
   "name": "string",
   "value": "string",
